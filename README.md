@@ -15,7 +15,7 @@ This plugin provides `zsh` and `wakatime` integration. In other words, it tracks
 Before we start you will need to run:
 
 ```bash
-python3 -c "$(wget -q -O - https://raw.githubusercontent.com/wakatime/vim-wakatime/master/scripts/install_cli.py)"
+brew install wakatime-cli
 ```
 
 This command will install [Wakatime's CLI](https://github.com/wakatime/wakatime-cli).
